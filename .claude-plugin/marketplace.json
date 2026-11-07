@@ -1,0 +1,14 @@
+{
+  "name": "souhilabnm",
+  "description": "Souhila's plugins for website copy and client work.",
+  "owner": {
+    "name": "Souhila"
+  },
+  "plugins": [
+    {
+      "name": "website-copy",
+      "source": "./",
+      "description": "Builds complete multi-page website copy for real client projects in nine approved stages, from intake to a QA'd copy deck."
+    }
+  ]
+}

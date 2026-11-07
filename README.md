@@ -2,6 +2,14 @@
 
 Builds the full copy of a multi-page website, stage by stage, with the client's approval at every step.
 
+## Install
+In Claude Code:
+```
+/plugin marketplace add souhilabnm/website-copy
+/plugin install website-copy@souhilabnm
+```
+To get a new version later: `/plugin marketplace update souhilabnm`, then update the plugin from `/plugin`.
+
 ## How it works
 Start with **website-copy-builder** ("build the website copy for my client"). It runs nine stages in order; each stage can also be run alone:
 
